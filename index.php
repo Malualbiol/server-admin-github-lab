@@ -6,6 +6,7 @@
 <body>
     <h1>GitHub Deployment Lab</h1>
     <p>This page is managed using Git and GitHub.</p>
+    <p><strong>Update:</strong> THIS IS A CODE CHANGE!!.</p>
     <p>Hosted on my Azure Linux virtual server.</p>
 
     <?php
